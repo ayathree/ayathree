@@ -5,7 +5,7 @@
 
 ### <div align="center">Hi, I am Nobanita Ayathree.  A passionate frontend developer</div>  
   
-
+## About Me
 Dedicated front end web developer with a solid foundation in HTML, CSS, and JavaScript, driven by a passion for creative
 problem-solving in web development projects. Adept at creating aesthetically pleasing and responsive websites with the use of contemporary frameworks like React. Love for creating seamless user experiences.   
   
@@ -70,5 +70,5 @@ problem-solving in web development projects. Adept at creating aesthetically ple
 
 
 
-<h3 align="left">Current Stats:</h3>
+## Current Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayathree&" alt="ayathree" /></p>
