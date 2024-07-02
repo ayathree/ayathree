@@ -1,5 +1,16 @@
-<h1 align="center">Hi 👋, I'm Nobanita Ayathree</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<div align="center">
+<img src="https://i.ibb.co/ckKtLQf/keyboard-with-neon-lights-high-angle.jpg" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">Hi, I am Nobanita Ayathree.  A passionate frontend developer</div>  
+  
+
+Dedicated front end web developer with a solid foundation in HTML, CSS, and JavaScript, driven by a passion for creative
+problem-solving in web development projects. Adept at creating aesthetically pleasing and responsive websites with the use of contemporary frameworks like React. Love for creating seamless user experiences.   
+  
+
+<br/>  
 
 
 
