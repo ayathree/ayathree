@@ -12,7 +12,18 @@ Dedicated front end web developer with a solid foundation in HTML, CSS, and Java
 problem-solving in web development projects. Adept at creating aesthetically pleasing and responsive websites with the use of contemporary frameworks like React. Love for creating seamless user experiences.   
   
 
-<br/>  
+<br/> 
+
+## Overview
+- 🌱 I’m currently learning **Typescript, next.js**
+
+- 👨‍💻 All of my projects are available at [https://nobanita-ayathree-portfolio.netlify.app](https://nobanita-ayathree-portfolio.netlify.app)
+
+- 📝 I regularly write articles on [https://www.linkedin.com/in/nobanitaayathree/](https://www.linkedin.com/in/nobanitaayathree/)
+
+- 💬 Ask me about **react.js**
+
+- 📫 How to reach me **nobanitaayathree333@gmail.com**
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
