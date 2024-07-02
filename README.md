@@ -26,7 +26,7 @@ problem-solving in web development projects. Adept at creating aesthetically ple
 - 📫 How to reach me **nobanitaayathree333@gmail.com**
 
 
-  
+<br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
