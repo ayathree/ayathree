@@ -1,9 +1,11 @@
+## <div align="center">Hi, I am Nobanita Ayathree.  A passionate frontend developer</div> 
+
 <div align="center">
 <img src="https://img.freepik.com/free-photo/keyboard-with-neon-lights-high-angle_23-2149680226.jpg?t=st=1719900233~exp=1719903833~hmac=27083cb52a1de9379d6b633d1bff412f30b3f330c654600e8a73ecd1cd4c6677&w=740" align="center" style="height: 20%; width: auto"  />
 </div>  
   
 
-### <div align="center">Hi, I am Nobanita Ayathree.  A passionate frontend developer</div>  
+ 
   
 ## About Me
 Dedicated front end web developer with a solid foundation in HTML, CSS, and JavaScript, driven by a passion for creative
