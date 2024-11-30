@@ -17,7 +17,7 @@ problem-solving in web development projects. Adept at creating aesthetically ple
 ## Overview
 - 🌱 I’m currently learning **Typescript, next.js**
 
-- 👨‍💻 All of my projects are available at [https://nobanita-ayathree-portfolio.netlify.app](https://nobanitaayathree.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://nobanitaayathree.netlify.app/](https://nobanitaayathree.netlify.app/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/nobanitaayathree/](https://www.linkedin.com/in/nobanitaayathree/)
 
