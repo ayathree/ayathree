@@ -87,4 +87,4 @@ problem-solving in web development projects. Adept at creating aesthetically ple
 
 
 ## Current Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayathree&" alt="ayathree" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ayathree" alt="GitHub Streak" /></a>
