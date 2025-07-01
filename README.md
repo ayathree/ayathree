@@ -1,7 +1,7 @@
 ## <div align="center">Hi, I am Nobanita Ayathree. A passionate web developer</div> 
 
 <div align="center">
-<img src="https://i.ibb.co/D7tbtHt/git.jpg" align="center" style="height: 20%; width: auto"  />
+<img src="https://i.ibb.co/JhYxdxK/Untitled-design-2.png" align="center" style="height: 20%; width: auto"  />
 </div>  
   
 
