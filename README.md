@@ -1,4 +1,4 @@
-## <div align="center">Hi, I am Nobanita Ayathree.  A passionate frontend developer</div> 
+## <div align="center">Hi, I am Nobanita Ayathree. A passionate web developer</div> 
 
 <div align="center">
 <img src="https://i.ibb.co/D7tbtHt/git.jpg" align="center" style="height: 20%; width: auto"  />
@@ -8,7 +8,7 @@
  
   
 ## About Me
-Dedicated front end web developer with a solid foundation in HTML, CSS, and JavaScript, driven by a passion for creative
+Dedicated web developer with a solid foundation in HTML, CSS, and JavaScript, driven by a passion for creative
 problem-solving in web development projects. Adept at creating aesthetically pleasing and responsive websites with the use of contemporary frameworks like React. Love for creating seamless user experiences.   
   
 
