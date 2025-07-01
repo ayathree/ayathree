@@ -1,6 +1,6 @@
 ## <div align="center">Hi, I am Nobanita Ayathree. A passionate web developer</div> 
 <div align="center">
-<img src="https://i.ibb.co/G35vnQws/Web-Developer.png" align="center" style="height: 20%; width: auto"  />
+<img src="https://i.ibb.co/7d302PtG/image.png" align="center" style="height: 20%; width: auto"  />
 </div>  
 
 ## About Me
